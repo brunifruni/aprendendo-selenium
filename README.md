@@ -20,8 +20,4 @@ Selenium
 ChromeDriver compatível com sua versão do navegador
 
 ▶️ Execução:
-bash
-Copiar
-Editar
 python main.py
-Observação: Certifique-se de ter o chromedriver no seu PATH ou no mesmo diretório do script.
